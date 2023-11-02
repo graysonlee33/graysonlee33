@@ -12,14 +12,12 @@
 - Proficient - Java, Python, HTML, CSS
 - Learning - Dart, Flutter, SQL
 - Want to Learn - C, R, Kotlin
-<br>
+
 
 ---
 
 <details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
+<h3>📔 GitHub Stats: <h3>
 <br>
 <p align="center">
   <a href="https://github.com/graysonlee33">
