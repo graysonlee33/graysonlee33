@@ -9,7 +9,7 @@
 
 <h3>Languages</h3>
 
-- Proficient - Java (JavaFX), Python, HTML, CSS, SQL (BigQuery), R (ggplot2)
+- Proficient - Java (JavaFX), Python, HTML, CSS, SQL (BigQuery, MySQL), R (ggplot2)
 - Learning - Dart, Flutter
 - Want to Learn - C, Kotlin
 
@@ -18,7 +18,7 @@
 
 <h3>Tools</h3>
 
-- Proficient - MS Excel (Pivot Table, VLOOKUP), MS Word, MS PowerPoint, Tableau, Google Sheets
+- Proficient - MS Excel (Pivot Table, VLOOKUP), Tableau, Google Sheets, VS Code, IntelliJ
 - Learning - Power BI
   
 ---
