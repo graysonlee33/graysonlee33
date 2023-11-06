@@ -11,7 +11,7 @@
 
 - Proficient - Java (JOption), Python, HTML, CSS, SQL (BigQuery), R (ggplot2)
 - Learning - Dart, Flutter
-- Want to Learn - C, R, Kotlin
+- Want to Learn - C, Kotlin
 
 
 ---
