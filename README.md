@@ -9,10 +9,24 @@
 
 <h3>Languages</h3>
 
-- Proficient - Java, Python, HTML, CSS
-- Learning - Dart, Flutter, SQL
+- Proficient - Java (JOption), Python, HTML, CSS, SQL (BigQuery), R (ggplot2)
+- Learning - Dart, Flutter
 - Want to Learn - C, R, Kotlin
 
+
+---
+
+<h3>Tools</h3>
+
+- Proficient - MS Excel (Pivot Table, VLOOKUP), MS Word, MS PowerPoint, Tableau, Google Sheets
+- Learning - Power BI
+  
+---
+
+<h3>Certifications</h3>
+
+- Completed - Google Data Analytics Professional
+- In Progress - Microsoft Power BI Data Analyst
 
 ---
 
