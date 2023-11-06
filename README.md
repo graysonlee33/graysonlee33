@@ -9,7 +9,7 @@
 
 <h3>Languages</h3>
 
-- Proficient - Java (JOption), Python, HTML, CSS, SQL (BigQuery), R (ggplot2)
+- Proficient - Java (JavaFX), Python, HTML, CSS, SQL (BigQuery), R (ggplot2)
 - Learning - Dart, Flutter
 - Want to Learn - C, Kotlin
 
